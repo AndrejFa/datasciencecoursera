@@ -32,7 +32,7 @@ makeCacheMatrix <- function(x = matrix()) {
 
 cacheSolve <- function(x, ...) {
         inverseMatrix <- x$getInverse() 
-        if(!is.null(inverseMatrix)){                    ##check if inverse is been computed
+        if(!is.null(inverseMatrix)){                    ##check if inverse has been computed
                 message('getting cache inverse matrix') ##if was then return computed the value
                 return(inverseMatrix)                   ##otherwise skip this two line (36,37)
         }

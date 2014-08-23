@@ -1,4 +1,5 @@
 datasciencecoursera
 ===================
 
-Datoteka, ki vsebuje moje delo pri učenje znanosti o podatkih na spletni strani coursera.org.
+File for my work on specialization Data science on Coursera.
+

@@ -64,199 +64,265 @@ Activity: factor ( 6 levels )
 	Activity in research.
 
 TimeBodyAccelerationMeanX: numeric
+
 	Mean of body acceleration signal in X axis and time domain.
 
 TimeBodyAccelerationMeanY: numeric
+
 	Mean of body acceleration signal in Y axis and time domain.
 
 TimeBodyAccelerationMeanZ: numeric
+
 	Mean of body acceleration signal in Z axis and time domain.
 
 TimeGravityAccelerationMeanX: numeric
+
 	Mean of gravity acceleration signal in X axis and time domain.
 
 TimeGravityAccelerationMeanY: numeric
+
 	Mean of gravity acceleration signal in Y axis and time domain.
 
 TimeGravityAccelerationMeanZ: numeric
+
 	Mean of gravity acceleration signal in Z axis and time domain. 
 
 TimeBodyAccelerationJerkMeanX: numeric
+
 	Mean of body acceleration Jerk signal in X axis and time domain.
 	
 TimeBodyAccelerationJerkMeanY: numeric
+
 	Mean of body acceleration Jerk signal in Y axis and time domain.
 
 TimeBodyAccelerationJerkMeanZ: numeric
+
 	Mean of body acceleration Jerk signal in Z axis and time domain.
 
 TimeBodyGyroscopeMeanX: numeric
+
 	Mean of angular velocity from gyroscope signal in X axis and time domain.
 
 TimeBodyGyroscopeMeanY: numeric
+
 	Mean of angular velocity from gyroscope signal in Y axis and time domain.
 
 TimeBodyGyroscopeMeanZ: numeric
+
 	Mean of angular velocity from gyroscope signal in Z axis and time domain.
 
 TimeBodyGyroscopeJerkMeanX: numeric
+
 	Mean of angular velocity from gyroscope Jerk signal in X axis and time domain.
 
 TimeBodyGyroscopeJerkMeanY: numeric
+
 	Mean of angular velocity from gyroscope Jerk signal in Y axis and time domain.
 
 TimeBodyGyroscopeJerkMeanZ: numeric
+
 	Mean of angular velocity from gyroscope Jerk signal in Z axis and time domain.
 
 TimeBodyAccelerationMagMean: numeric
+
 	Mean of body acceleration magnitude and time domain.
 
 TimeGravityAccelerationMagMean: numeric
+
 	Mean of gravity acceleration magnitude and time domain.
 
 TimeBodyAccelerationJerkMagMean: numeric
+
 	Mean of body acceleration Jerk signal magnitude and time domain.
 
 TimeBodyGyroscopeMagMean: numeric
+
 	Mean of angular velocity from gyroscope magnitude and time domain.
 
 TimeBodyGyroscopeJerkMagMean: numeric
+
 	Mean of angular velocity from gyroscope Jerk signal magnitude and time domain.
 
 FrequencyBodyAccelerationMeanX: numeric
+
 	Mean of body acceleration signal in X axis and frequency domain.
 
 FrequencyBodyAccelerationMeanY: numeric
+
 	Mean of body acceleration signal in Y axis and frequency domain.
 
 FrequencyBodyAccelerationMeanZ: numeric
+
 	Mean of body acceleration signal in Z axis and frequency domain.
 
 FrequencyBodyAccelerationJerkMeanX: numeric
+
 	Mean of body acceleration Jerk signal in X axis and frequency domain.
 
 FrequencyBodyAccelerationJerkMeanY: numeric
+
 	Mean of body acceleration Jerk signal in Y axis and frequency domain.
 
 FrequencyBodyAccelerationJerkMeanZ: numeric
+
 	Mean of body acceleration Jerk signal in Z axis and frequency domain.
 
 FrequencyBodyGyroscopeMeanX: numeric
+
 	Mean of angular velocity from gyroscope signal in X axis and frequency domain.
 
 FrequencyBodyGyroscopeMeanY: numeric
+
 	Mean of angular velocity from gyroscope signal in Y axis and frequency domain.
 
 FrequencyBodyGyroscopeMeanZ: numeric
+
 	Mean of angular velocity from gyroscope signal in Z axis and frequency domain.
 
 FrequencyBodyAccelerationMagMean: numeric
+
 	Mean of body acceleration magnitude and frequency domain.
 
 FrequencyBodyAccelerationJerkMagMean: numeric
+
 	Mean of body acceleration Jerk signal magnitude and frequency domain.
 
 FrequencyBodyGyroscopeMagMean: numeric
+
 	Mean of angular velocity from gyroscope magnitude and frequency domain.
 
 FrequencyBodyGyroscopeJerkMagMean: numeric
+
 	Mean of angular velocity from gyroscope Jerk signal magnitude and frequency domain.
 
 TimeBodyAccelerationStdX: numeric
+
 	Standard deviation of body acceleration signal in X axis and time domain.
 
 TimeBodyAccelerationStdY: numeric
+
 	Standard deviation of body acceleration signal in Y axis and time domain.
 
 TimeBodyAccelerationStdZ: numeric
+
 	Standard deviation of body acceleration signal in Z axis and time domain.
 
 TimeGravityAccelerationStdX: numeric
+
 	Standard deviation of gravity acceleration signal in X axis and time domain.
 
 TimeGravityAccelerationStdY: numeric
+
 	Standard deviation of gravity acceleration signal in Y axis and time domain.
 
 TimeGravityAccelerationStdZ: numeric
+
 	Standard deviation of gravity acceleration signal in Z axis and time domain.
 
 TimeBodyAccelerationJerkStdX: numeric
+
 	Standard deviation of body acceleration Jerk signal in X axis and time domain.
 
 TimeBodyAccelerationJerkStdY: numeric
+
 	Standard deviation of body acceleration Jerk signal in Y axis and time domain.
 
 TimeBodyAccelerationJerkStdZ: numeric
+
 	Standard deviation of body acceleration Jerk signal in Z axis and time domain.
 
 TimeBodyGyroscopeStdX: numeric
+
 	Standard deviation of angular velocity from gyroscope signal in X axis and time domain.
 
 TimeBodyGyroscopeStdY: numeric
+
 	Standard deviation of angular velocity from gyroscope signal in Y axis and time domain.
 
 TimeBodyGyroscopeStdZ: numeric
+
 	Standard deviation of angular velocity from gyroscope signal in Z axis and time domain.
 
 TimeBodyGyroscopeJerkStdX: numeric
+
 	Standard deviation of angular velocity from gyroscope Jerk signal in X axis and time domain.
 
 TimeBodyGyroscopeJerkStdY: numeric
+
 	Standard deviation of angular velocity from gyroscope Jerk signal in Y axis and time domain.
 
 TimeBodyGyroscopeJerkStdZ: numeric
+
 	Standard deviation of angular velocity from gyroscope Jerk signal in Z axis and time domain.
 
 TimeBodyAccelerationMagStd: numeric
+
 	Standard deviation of body acceleration magnitude and time domain.
 
 TimeGravityAccelerationMagStd: numeric
+
 	Standard deviation of gravity acceleration magnitude and time domain.
 
 TimeBodyAccelerationJerkMagStd: numeric
+
 	Standard deviation of body acceleration Jerk signal magnitude and time domain.
 
 TimeBodyGyroscopeMagStd: numeric
+
 	Standard deviation of angular velocity from gyroscope magnitude and time domain.
 
 TimeBodyGyroscopeJerkMagStd: numeric
+
 	Standard deviation of angular velocity from gyroscope Jerk signal magnitude and time domain.
 
 FrequencyBodyAccelerationStdX: numeric
+
 	Standard deviation of body acceleration signal in X axis and frequency domain.
 
 FrequencyBodyAccelerationStdY: numeric
+
 	Standard deviation of body acceleration signal in Y axis and frequency domain.
 
 FrequencyBodyAccelerationStdZ: numeric
+
 	Standard deviation of body acceleration signal in Z axis and frequency domain.
 
 FrequencyBodyAccelerationJerkStdX: numeric
+
 	Standard deviation of body acceleration Jerk signal in X axis and frequency domain.
 
 FrequencyBodyAccelerationJerkStdY: numeric
+
 	Standard deviation of body acceleration Jerk signal in Y axis and frequency domain.
 
 FrequencyBodyAccelerationJerkStdZ: numeric
+
 	Standard deviation of body acceleration Jerk signal in Z axis and frequency domain.
 
 FrequencyBodyGyroscopeStdX: numeric
+
 	Standard deviation of angular velocity from gyroscope signal in X axis and frequency domain.
 
 FrequencyBodyGyroscopeStdY: numeric
+
 	Standard deviation of angular velocity from gyroscope signal in Y axis and frequency domain.
 
 FrequencyBodyGyroscopeStdZ: numeric
+
 	Standard deviation of angular velocity from gyroscope signal in Z axis and frequency domain.
 
 FrequencyBodyAccelerationMagStd: numeric
+
 	Standard deviation of body acceleration magnitude and frequency domain.
 
 FrequencyBodyAccelerationJerkMagStd: numeric
+
 	Standard deviation of body acceleration Jerk signal magnitude and frequency domain.
 
 FrequencyBodyGyroscopeMagStd: numeric
+
 	Standard deviation of angular velocity from gyroscope magnitude and frequency domain.
 
 FrequencyBodyGyroscopeJerkMagStd: numeric
+
 	Standard deviation of angular velocity from gyroscope Jerk signal magnitude and frequency domain.  

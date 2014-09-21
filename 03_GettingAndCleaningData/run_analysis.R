@@ -24,7 +24,7 @@ merged_subject <- rbind(subject_test,subject_train)
 #create tbl data frame which is used to analize
 data <- tbl_df(cbind(merged_subject,merged_activity,merged_data))
 
-#chaning 1: creating data frame only with variable Person, Activity and which contain mean and std inside name but variables 
+#chaning: creating data frame only with variable Person, Activity and which contain mean and std inside name but variables 
 #with meanFreq and angle are excluded.
 data <- data%>%
                 select(Person,Activity,contains('mean'),contains('std'), -contains('meanFreq'),-contains('angle'))%>%
@@ -48,7 +48,7 @@ descriptive_names <- function(){
 }
 #save descriptive name to our data variables
 colnames(data) <- descriptive_names()                 
-#chaining 2:create tidy data set with average of each variable for each activity and each subject
+#create tidy data set with average of each variable for each activity and each subject
 tidy_data <- ddply(data, .(Person,Activity), numcolwise(mean))
 #saving tidy data as txt file        
 write.table(tidy_data,file = 'TidyDataTable.txt',row.names = FALSE)    

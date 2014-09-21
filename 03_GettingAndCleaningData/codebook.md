@@ -52,15 +52,23 @@ For better understanding of decription above see code in run_analysis.R file.
 VARIABLE DESCRIPTION:
 
 Person:	integer ( 1-30 )
+
 	Individuals participating in research.
 
 Activity: factor ( 6 levels )
+
 	WALKING : 1
+
 	WALKING_UPSTAIRS: 2
+
 	WALKING_DOWNSTAIRS: 3
+
 	SITTING: 4
+
 	STANDING: 5
+
 	LAYING: 6
+
 	Activity in research.
 
 TimeBodyAccelerationMeanX: numeric
